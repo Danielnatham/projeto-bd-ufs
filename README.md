@@ -9,6 +9,6 @@ Projeto para salvar e exibir usuarios cadastrados no sistema usando o banco de d
 
 ## Utilizando
 
-Requests GET para a rota /usuarios retorna todos os usuarios
-Requests POST para a rota /usuarios salva o usuario no banco
+* Requests GET para a rota /usuarios retorna todos os usuarios
+* Requests POST para a rota /usuarios salva o usuario no banco
 
